@@ -18,10 +18,7 @@ heroImage: "/blog-placeholder-3.jpg"
 
 ### 1. 智能的任务管理系统
 
-Claude Code内置的TodoWrite和TodoRead功能，让项目管理变得前所未有的清晰：
-
-![Claude Code任务管理界面](./images/claude-code-todo-management.png)
-*图1：Claude Code的任务管理界面，实时显示项目进度*
+Claude Code内置的TodoWrite和TodoRead功能，让项目管理变得前所未有的清晰
 
 ```
 开发流程示例：
@@ -34,9 +31,6 @@ Claude Code内置的TodoWrite和TodoRead功能，让项目管理变得前所未�
 
 每个任务都有明确的状态标记，让开发进度一目了然。更重要的是，Claude Code会主动提醒你更新任务状态，确保没有遗漏。
 
-![任务状态更新提示](./images/claude-code-todo-reminder.png)
-*图2：Claude Code主动提醒更新任务状态*
-
 ### 2. 深度的代码理解能力
 
 Claude Code不仅能理解你的需求，还能理解整个项目的上下文。它会：
@@ -48,8 +42,6 @@ Claude Code不仅能理解你的需求，还能理解整个项目的上下文。
 
 通过Glob、Grep、Read等工具的组合使用，Claude Code能够快速定位和理解代码库的结构。
 
-![Claude Code文件搜索功能](./images/claude-code-file-search.png)
-*图3：使用Grep工具快速搜索代码库中的特定内容*
 
 ## 实际开发案例分享
 
