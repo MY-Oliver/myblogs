@@ -2,7 +2,7 @@
 title: "从零到一：使用Claude Code高效开发支付宝小程序的实践心得"
 description: "从零到一：使用Claude Code高效开发支付宝小程序的实践心得"
 pubDate: "Jul 06 2025"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/blog-claude-code-dev-experience.png"
 ---
 # 从零到一：使用Claude Code高效开发支付宝小程序的实践心得
 
