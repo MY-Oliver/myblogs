@@ -1,3 +1,9 @@
+---
+title: "从零到一：使用Claude Code高效开发支付宝小程序的实践心得"
+description: "从零到一：使用Claude Code高效开发支付宝小程序的实践心得"
+pubDate: "Jul 06 2025"
+heroImage: "/blog-placeholder-3.jpg"
+---
 # 从零到一：使用Claude Code高效开发支付宝小程序的实践心得
 
 > 在AI辅助编程的浪潮中，Claude Code以其强大的代码理解和生成能力，正在改变我们的开发方式。本文将通过一个真实的支付宝小程序项目开发经历，深入探讨如何利用Claude Code的各项功能，实现高效、规范的项目开发。
